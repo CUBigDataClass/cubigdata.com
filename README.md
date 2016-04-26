@@ -8,7 +8,13 @@ To request a DNS record to be added, make a pull request to this readme, adding 
 
 The request will be merged as soon as the record is added. (sometimes it take a little while to propagate)
 
+If you want to check to make sure the correct IP Address(es) were added, run the following:
 
-| Project                                                          | Subdomain | IP Addresses                   |
+```bash
+dig [subdomain].cubigdata.com +short
+```
+
+
+| Project                                                          | Subdomain | IP Address(es)                 |
 | ---------------------------------------------------------------- |-----------| ------------------------------ |
 | [cubigdata.com](https://github.com/CUBigDataClass/cubigdata.com) | www       | 192.30.252.153, 192.30.252.154 |
