@@ -7,6 +7,7 @@ DNS records for cubigdata.com. See below to add records.
 | Project                                                          | Subdomain | IP Address(es)                 |
 | ---------------------------------------------------------------- |-----------| ------------------------------ |
 | [cubigdata.com](https://github.com/CUBigDataClass/cubigdata.com) | www       | 192.30.252.153, 192.30.252.154 |
+| [Elections](https://github.com/CUBigDataClass/Elections)         | elections | 54.215.201.213                 |
 
 ### How to add a DNS record
 
