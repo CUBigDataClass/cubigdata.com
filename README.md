@@ -10,7 +10,7 @@ DNS records for cubigdata.com. See below to add records.
 
 ### How to add a DNS record
 
-To request a DNS record to be added, make a pull request to this readme, adding to the table below.
+To request a DNS record to be added, make a pull request to this readme, adding to the table above.
 
 The request will be merged as soon as the record is added (sometimes it take a little while to propagate once added).
 
